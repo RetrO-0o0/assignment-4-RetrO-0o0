@@ -14,7 +14,9 @@ But I've created a series of logs showing that all steps of assignment 4 are cor
 I even added these logs into the README.txt file to be easier to access.
 
 ================================================================================
+
 AESD Assignment 4: Buildroot External Tree & Packaging Verification
+
 ================================================================================
 
 1. Created needed files for br2_external_tree and their contents
