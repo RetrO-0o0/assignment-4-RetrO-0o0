@@ -11,7 +11,7 @@ It also contains instructions related to modifying your buildroot project to use
 As I said before I can't use self-runners to validate my assignments. It is because of increasing internet restrictions on Iran.
 And Github runners don't work neither because of the high workload of this assignment.
 But I've created a series of logs showing that all steps of assignment 4 are correctly implemented.
-I even added these logs into the README.txt file to be easier to access.
+I even added these logs into the README.md file to be easier to access.
 
 # Embedded Linux Assignment 4
 
