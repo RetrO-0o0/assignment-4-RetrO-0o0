@@ -47,9 +47,12 @@ config BR2_PACKAGE_AESD_ASSIGNMENTS
 	  Used to understand buildroot external trees and package builds.
 
 $ cat base_external/package/aesd-assignments/aesd-assignments.mk
-##############################################################
-# AESD-ASSIGNMENTS
-##############################################################
+
+==============================================================
+
+= AESD-ASSIGNMENTS
+
+==============================================================
 
 AESD_ASSIGNMENTS_VERSION = 293d4284f7beb5134719f6456954ba114b686d8d
 AESD_ASSIGNMENTS_SITE = git@github.com:RetrO-0o0/assignments-RetrO-0o0.git
